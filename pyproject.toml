@@ -2,7 +2,7 @@
 name = "xmwudrl"
 version = "0.1.0"
 description = ""
-authors = ["xmwu_mac <243399634@qq.com>"]
+authors = ["wu xiaomin <xmwu@mail.ustc.edu.cn>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
