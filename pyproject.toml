@@ -6,6 +6,10 @@ authors = ["xmwu_mac <243399634@qq.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+sphinx-rtd-theme = "^1.0.0"
+Sphinx = "^4.5.0"
+matplotlib = "^3.5.1"
+numpy = "1.21.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
